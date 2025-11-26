@@ -1,3 +1,9 @@
+## 快速体验
+
+https://subcultural-aesthetics-knowledge-map.onrender.com
+
+> 注意：该在线部署为导入图片，以避免商业盗用；
+
 ## 使用前须知
 1. 该亚文化知识图谱仅仅供教学展示使用，切勿用于其他用途，static文件中的图片不会进行商业用途；
 2. 在使用时，可以在data.json文件中调整节点与关系；
